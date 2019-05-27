@@ -1,0 +1,7 @@
+keras
+tensorflow
+wandb
+numpy
+keras-rl
+gym
+
