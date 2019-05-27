@@ -1,2 +1,2 @@
-# rf-experiments
+# rl-experiments
 some reinforcement learning experiments
